@@ -1,3 +1,13 @@
+---
+title: About the theme's author
+keywords: documentation theme, jekyll, technical writers, help authoring tools, hat replacements
+last_updated: July 3, 2016
+tags: [getting_started]
+summary: "Alakh's coding of API"
+sidebar: mydoc_sidebar
+permalink: CoinGeckoAPI.html
+folder: mydoc
+---
 # Preamble
 
 Let's set up the environment first. We need the coingecko API to fetch prices, and pandas to work with timeseries (and tabular data in general).
