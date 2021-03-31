@@ -8,7 +8,6 @@ sidebar: mydoc_sidebar
 permalink: investment.html
 folder: mydoc
 ---
-<div class="section">
 
 ### Investment
 
@@ -66,4 +65,3 @@ We are planning to invest $5000 into crypto and the goal to turn it into $50,000
 
 </table>
 
-<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src="https://plotly.com/~chris/1638.embed" height="425" width="70%"></iframe></div>
