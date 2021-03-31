@@ -19,7 +19,7 @@ entries:
       output: pdf
       type: frontmatter
 
-  - title: Cryptocurrency
+  - title: Overview
     output: web, pdf
     folderitems:
 
