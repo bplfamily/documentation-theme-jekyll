@@ -51,7 +51,7 @@ entries:
     - title: API
       url: /CoinGeckoAPI.html
       output: web, pdf
-      
+
     - title: Data
       url: /historical.html
       output: web, pdf
@@ -93,7 +93,7 @@ entries:
 
     folderitems:
     - title: List
-      url: /blogs.html
+      url: /mydoc_blogs.html
       output: web, pdf
       
   - title: Technical Stuff
