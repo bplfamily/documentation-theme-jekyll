@@ -5,7 +5,7 @@ last_updated: July 3, 2016
 tags: [getting_started]
 summary: "Gathered data manually"
 sidebar: mydoc_sidebar
-permalink: manual.html
+permalink: manualdata.html
 folder: mydoc
 ---
 # Manual
