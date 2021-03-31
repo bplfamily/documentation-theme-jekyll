@@ -7,9 +7,9 @@ topnav:
       external_url: https://github.com/bplfamily
     - title: Courses
       url: /news
-    - title: News
+    - title: Programming
       url: /news
-    - title: News
+    - title: Others
       url: /news
 
 
@@ -37,3 +37,4 @@ topnav:
 #           url: /p1_landing_page.html
 #         - title: Product 2
 #           url: /p2_landing_page.html
+
