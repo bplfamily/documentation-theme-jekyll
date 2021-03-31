@@ -47,15 +47,17 @@ entries:
   - title: Historical Data
     output: web, pdf
     folderitems:
+
   - title: API
       url: /CoinGeckoAPI.html
       output: web, pdf
+      
     - title: Data
-      url: /CoinGecko Historical Data.html
+      url: /historical.html
       output: web, pdf
 
     - title: Manual
-      url: /CoinGecko Historical Data, Manual.html
+      url: /manualdata.html
       output: web, pdf
 
   - title: Polkadot
